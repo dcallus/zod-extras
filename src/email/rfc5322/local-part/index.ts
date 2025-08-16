@@ -1,0 +1,1 @@
+export { isLocalPartDotAtom } from "./dotAtom";
